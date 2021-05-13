@@ -1,0 +1,14 @@
+h1 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+section div {
+    margin-right: 30px;
+    margin-left: 30px;
+    background-color: gray;
+}
+
+#menu li {
+    text-align: center;
+}
